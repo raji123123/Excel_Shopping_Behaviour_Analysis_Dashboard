@@ -70,7 +70,7 @@ The goal of this project is to analyze customer purchase data to identify spendi
 ---
 
 ## 🖼 Dashboard Preview
-![Shopping Behaviour Analysis Dashboard](screenshots/dashboard.png)
+![Shopping Behaviour Analysis Dashboard](Screenshot/dashboard.png)
 ---
 
 ## 🛠 Tools Used
