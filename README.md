@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+<img src="Screenshot/Shopping_behaviour_analysis.PNG" width="100%" />
+
 # Shopping Behaviour Analysis Dashboard (Excel)
 
 ## 📌 Clear Problem Statement
